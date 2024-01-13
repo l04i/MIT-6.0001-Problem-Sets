@@ -1,5 +1,3 @@
-I apologize for the misunderstanding. Here's an example of a README file for a repository containing your solutions for the MIT 6.0001 problem sets:
-
 # MIT 6.0001 Problem Set Solutions
 
 This repository contains my solutions to the problem sets for the course MIT 6.0001 - Introduction to Computer Science and Programming in Python. The problem sets are designed to provide hands-on programming practice and reinforce the concepts covered in the course.
