@@ -9,25 +9,3 @@ MIT 6.0001 is an introductory course that teaches the fundamentals of computer s
 
 Each problem set's solutions are contained within a separate directory named "PSX", where X represents the problem number. 
 
-## Getting Started
-
-To get started, follow these steps:
-
-1. Clone the repository:
-
-```
-git clone https://github.com/yourusername/MIT-6.0001-Problem-Sets.git
-```
-
-2. Navigate to the cloned repository:
-
-```
-cd MIT-6.0001-Problem-Sets
-```
-
-3. Explore the problem sets and their corresponding solutions.
-
-
-## Acknowledgments
-
-We would like to acknowledge MIT for creating the course MIT 6.0001 and providing the problem sets for practice.
